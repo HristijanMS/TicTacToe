@@ -1,2 +1,2 @@
 # TicTacToe
-TicTacToe game written in CPP.
+TicTacToe game.
